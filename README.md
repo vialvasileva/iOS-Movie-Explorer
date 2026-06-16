@@ -42,19 +42,6 @@ OMDB_API_KEY=YOUR_API_KEY
 
 Add it to your Xcode project configuration and make sure it is excluded from version control.
 
-## Project Structure
-
-```text
-MovieExplorer
-├── Models
-├── Services
-├── Managers
-├── Views
-├── ViewControllers
-├── SwiftUI
-└── Resources
-```
-
 ## Favorites
 
 Favorite movies are stored locally using `UserDefaults`.
